@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu me chamo Artur</h1>
 
 <p align="center">
-  Estudante de DS na ETEC focado em desenvolvimento de sistemas.<br>
+  Estudante de DS na ETEC .<br>
   Sempre buscando aprender e criar projetos úteis com código.
 </p>
 
