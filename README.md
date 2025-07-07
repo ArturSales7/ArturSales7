@@ -1,15 +1,14 @@
-<h1 align="center">  Olá! Eu me chamo Artur</h1>
+<h1 align="center"> Hello!</h1>
 
 <p align="center">
-  Estudante de DS na ETEC .<br>
-  Sempre buscando aprender e criar projetos úteis com código.
+   .<br>
+  Always willing to learn and create projects
 </p>
 
 ---
 
 ---
-## 🧠 Aprendendo atualmente
-
+## 🧠 Learning now
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
