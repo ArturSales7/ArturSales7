@@ -84,4 +84,3 @@
   <img src="https://komarev.com/ghpvc/?username=ArturSales7&color=green&style=flat-square&label=Profile+views" alt="Visualizações do Perfil" />
 </p>
 
-<p align="center"><i>"1% all day - consistency over intensity"</i></p>
