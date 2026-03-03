@@ -20,9 +20,9 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔐 Login API (Node + Express)
-- 🧮 Calculadora Web
-- 📘 Projetos de Lógica (LeetCode)
+-  Login API (Node + Express)
+-  Site Wikipedia (Red Dead Redemption 2)
+
 
 ---
 
