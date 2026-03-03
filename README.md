@@ -16,14 +16,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,node,java,react,html,css,git" />
-</p>
-
----
-
 ## 🚀 Projetos em Destaque
 
 - Login API (Node + Express)
@@ -33,5 +25,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: (seu link)
-- Email: (seu email)
+- LinkedIn: https://www.linkedin.com/in/artureduardocarvalho/
+- Email: artursales2009@gmail.com
