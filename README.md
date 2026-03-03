@@ -57,8 +57,6 @@
 
 ## 📫 Let's Connect
 
-## 📫 Let's Connect
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artureudardocarvalho)
@@ -67,13 +65,10 @@
 
 </div>
 
----
+
 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArturSales7&color=blue&style=flat-square" alt="Profile views" />
 </div>
 
-<div align="center">
-  <sub>Total Contributions: 62 (Aug 2024 - Present)</sub>
-</div>
