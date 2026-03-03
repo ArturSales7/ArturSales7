@@ -37,7 +37,7 @@
 
 | 🔐 Login API | 🎮 RDR2 Fan Website |
 |:---:|:---:|
-| [![Login API](https://img.shields.io/badge/Login_API-4F8BCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturSales7/Login-Api---JS) | [![RDR2 Fan Website](https://img.shields.io/badge/RDR2_Fan_Website-4F8BCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturSales7/seu-link-aqui) |
+| [![Login API](https://img.shields.io/badge/Login_API-4F8BCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturSales7/Login-Api---JS) | [![RDR2 Fan Website](https://img.shields.io/badge/RDR2_Fan_Website-4F8BCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturSales7/InterdiciplinarDG-PWI) |
 | *Node.js + Express* | *HTML + CSS* |
 | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B6ZXQ1bGs5MWE5dzh2aGc5ZTZxMTU1cHUxOHJnYXpydWJ4N2xqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="100%" height="200px" style="object-fit: cover; display: block;" /> | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG93YW16N2xoMHFwcWNrenEwcTZ5b3UxMmZnM3dha3ljZzA0cDY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YeKAMmdGI4dEUU8Wk/giphy.gif" width="100%" height="200px" style="object-fit: cover; display: block;" /> |
 | **Secure Authentication System** | **Fan page inspired by RDR2** |
