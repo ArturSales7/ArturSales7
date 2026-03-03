@@ -32,11 +32,6 @@ z
 
 ---
 
-
-
-
----
-
 ## 📌 Featured Projects
 
 <div align="center">
