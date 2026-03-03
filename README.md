@@ -66,7 +66,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artursales2009@gmail.com)
 
 </div>
+
 ---
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArturSales7&color=blue&style=flat-square" alt="Profile views" />
