@@ -1,32 +1,31 @@
-<h1 align="center">Artur Sales 👋</h1>
+
+<h1 align="center">Welcome to my GitHub 👨‍💻</h1>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas <br>
-  🚀 Focado em Back-end e Engenharia de Software <br>
-  📍 Brasil
+  Always building. Always learning.
 </p>
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧑‍💻 About me
 
-- JavaScript
-- Node.js
-- Java
-- React
-- Estrutura de Dados
-
----
-
-## 🚀 Projetos em Destaque
-
--  Login API (Node + Express)
--  Site Wikipedia (Red Dead Redemption 2)
-
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💡 Apaixonado por tecnologia e lógica
+- 🏋️ Disciplina dentro e fora do código
+- 📚 Estudando todos os dias
 
 ---
 
-## 📫 Contato
+## 🛠 Tech Stack
 
-- LinkedIn: (seu link)
-- Email: (seu email)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,node,java,react,html,css,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark" />
+</p>
