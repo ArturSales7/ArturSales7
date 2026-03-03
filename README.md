@@ -34,12 +34,17 @@
 
 ## 📌 Featured Projects
 
-### 🔐 [Login API](https://github.com/ArturSales7/Login-Api---JS)
-*Node.js + Express* - Authentication system with password encryption
+## 📌 Featured Projects
 
-### 🎮 [RDR2 Fan Website](https://github.com/ArturSales7/InterdiciplinarDG-PWI)
-*HTML + CSS* - Fan page inspired by the game's universe
+<div align="center">
+  
+| 🔐 Login API | 🎮 RDR2 Fan Website |
+|:---:|:---:|
+| ![API](https://via.placeholder.com/300x150/0D1117/FFFFFF?text=Login+API) | ![RDR2 GIF](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif) |
+| *Node.js + Express* | *HTML + CSS* |
+| Authentication system | Red Dead Redemption 2 fan page |
 
+</div>
 ---
 
 ## 📊 GitHub Stats
