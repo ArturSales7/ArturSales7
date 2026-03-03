@@ -32,19 +32,33 @@
 
 ---
 
-## 📌 Featured Projects
+
 
 ## 📌 Featured Projects
+---
 
-<div align="center">
-  
-| 🔐 Login API | 🎮 RDR2 Fan Website |
-|:---:|:---:|
-| ![API](https://via.placeholder.com/300x150/0D1117/FFFFFF?text=Login+API) | ![RDR2 GIF](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif) |
-| *Node.js + Express* | *HTML + CSS* |
-| Authentication system | Red Dead Redemption 2 fan page |
 
-</div>
+
+<h4 align="center">
+  <a href="https://github.com/ArturSales7" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%92_Login_API-4F8BCB?style=flat-square" alt="Login API">
+  </a>
+</h4>
+<p align="center">Node.js + Express - Authentication system with password encryption</p>
+
+<br />
+
+<h4 align="center">
+  <a href="https://github.com/ArturSales7" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_RDR2_Fan_Website-4F8BCB?style=flat-square" alt="RDR2 Wiki">
+  </a>
+</h4>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG93YW16N2xoMHFwcWNrenEwcTZ5b3UxMmZnM3dha3ljZzA0cDY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YeKAMmdGI4dEUU8Wk/giphy.gif" width="250px" alt="Arthur Morgan GIF" />
+</p>
+<p align="center">HTML + CSS - Fan page inspired by the game's universe</p>
+
+---
 ---
 
 ## 📊 GitHub Stats
