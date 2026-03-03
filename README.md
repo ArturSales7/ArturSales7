@@ -71,16 +71,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArturSales7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Gerais" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSales7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturSales7&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
-</p>
+<div align="center">
+  
+### Estatísticas Gerais
+![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturSales7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArturSales7&color=green&style=flat-square&label=Profile+views" alt="Visualizações do Perfil" />
-</p>
+### Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSales7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
+### Streak de Contribuições
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArturSales7&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
