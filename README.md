@@ -39,25 +39,16 @@ z
 
 ## 📌 Featured Projects
 
-<h4 align="center">
-  <a href="https://github.com/ArturSales7" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%92_Login_API-4F8BCB?style=flat-square" alt="Login API">
-  </a>
-</h4>
-<p align="center">Node.js + Express - Authentication system with password encryption</p>
+<div align="center">
+  
+| 🔐 Login API | 🎮 RDR2 Fan Website |
+|:---:|:---:|
+| [![Login API](https://img.shields.io/badge/Login_API-4F8BCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturSales7/Login-Api---JS) | [![RDR2 Fan Website](https://img.shields.io/badge/RDR2_Fan_Website-4F8BCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturSales7/seu-link-aqui) |
+| *Node.js + Express* | *HTML + CSS* |
+| Authentication system | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG93YW16N2xoMHFwcWNrenEwcTZ5b3UxMmZnM3dha3ljZzA0cDY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YeKAMmdGI4dEUU8Wk/giphy.gif" width="200px" /> |
+| | Fan page inspired by RDR2 |
 
-<br />
-
-<h4 align="center">
-  <a href="https://github.com/ArturSales7" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_RDR2_Fan_Website-4F8BCB?style=flat-square" alt="RDR2 Wiki">
-  </a>
-</h4>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG93YW16N2xoMHFwcWNrenEwcTZ5b3UxMmZnM3dha3ljZzA0cDY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1YeKAMmdGI4dEUU8Wk/giphy.gif" width="250px" alt="Arthur Morgan GIF" />
-</p>
-<p align="center">HTML + CSS - Fan page inspired by the game's universe</p>
-
+</div>
 ---
 ---
 
