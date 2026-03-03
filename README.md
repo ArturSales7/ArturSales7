@@ -1,4 +1,4 @@
-# BUILDING THE FUTURE 🚀
+
 
 ---
 
@@ -37,8 +37,8 @@
 ### 🔐 [Login API](https://github.com/ArturSales7/Login-Api---JS)
 *Node.js + Express* - Authentication system with password encryption
 
-### 🎮 [RDR2 Fan Website](https://github.com/ArturSales7/seu-link)
-*HTML + CSS* - Fan page inspired by the game's universe (2023)
+### 🎮 [RDR2 Fan Website](https://github.com/ArturSales7/InterdiciplinarDG-PWI)
+*HTML + CSS* - Fan page inspired by the game's universe
 
 ---
 
@@ -46,11 +46,7 @@
 
 <div align="center">
   
-### Estatísticas Gerais
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturSales7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-### Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSales7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArturSales7&show_icons=true&theme=tokyonight)
 
 ### Streak de Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ArturSales7&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
@@ -62,8 +58,12 @@
 ## 📫 Let's Connect
 
 <div align="center">
+## 📫 Let's Connect
+
+<div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artureudardocarvalho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artureudardocarvalho)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artursales2009@gmail.com)
 
 </div>
