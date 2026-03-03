@@ -7,12 +7,12 @@
 
 ---
 
-## 🧑‍💻 About me
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💡 Apaixonado por tecnologia e lógica
-- 🏋️ Disciplina dentro e fora do código
-- 📚 Estudando todos os dias
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,node,java,react,html,css,git" />
+</p>
 
 ---
 
@@ -24,8 +24,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark" />
-</p>
+- Login API (Node + Express)
+- Site Wikipedia (Red Dead Redemption 2)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (seu link)
+- Email: (seu email)
