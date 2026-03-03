@@ -1,21 +1,32 @@
-<h1 align="center"> Hello!</h1>
+<h1 align="center">Artur Sales 👋</h1>
 
 <p align="center">
-<br>
-  Always willing to learn and develop projects!!
+  💻 Estudante de Desenvolvimento de Sistemas <br>
+  🚀 Focado em Back-end e Engenharia de Software <br>
+  📍 Brasil
 </p>
 
 ---
 
+## 🧠 Atualmente estudando
+
+- JavaScript
+- Node.js
+- Java
+- React
+- Estrutura de Dados
+
 ---
-## 🧠 Learning now
-<div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+## 🚀 Projetos em Destaque
 
-</div>
+- 🔐 Login API (Node + Express)
+- 🧮 Calculadora Web
+- 📘 Projetos de Lógica (LeetCode)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (seu link)
+- Email: (seu email)
